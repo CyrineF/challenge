@@ -1,0 +1,6 @@
+@import "root.css";
+.foot{
+    background-color: var(--bg-secondary);
+    color: white;
+    
+}
